@@ -95,7 +95,7 @@
     </ol>
   </li>
 
-    <li>Action
+  <li>Action
     <ol>
       <li>Discuss how you would apply the knowledge and deploy the implementation</li>
       <li>Discuss how you would monitor the implementation</li>
