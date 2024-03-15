@@ -16,9 +16,9 @@
 **The Outline of the Project**
 <ol>
   <li>Project Proposal</li>
-  <li>Iteration 1: IBM Software Analytics Solution and Report (SPSS Modeller)</li>
-  <li>Iteration 2: Open Source Analytics Solution and Report (Python and Jupyter)</li>
-  <li>Iteration 3: Big Data Analytics Solution and Report (PySpark and Jupyter)</li>
+  <li>Iteration 1 ISAS: IBM Software Analytics Solution and Report (SPSS Modeller)</li>
+  <li>Iteration 2 OSAS: Open Source Analytics Solution and Report (Python and Jupyter)</li>
+  <li>Iteration 3 BDAS: Big Data Analytics Solution and Report (PySpark and Jupyter)</li>
   <li>Research Paper: An Overall Research Paper</li>
 </ol>
 
