@@ -31,47 +31,77 @@
     <ol>
       <li>Identify the objectives of the business</li>
       <li>Assess the situation</li>
+      <li>Determine data mining objectives</li>
+      <li>Produce a project plan</li>
     </ol>
   </li>
 
-<li>Business Understanding
-<ol>
-<li>Load t</li>
-<li>Load the data sets</li>
-<li>Find the number of missing values (Null & NaN) in each column</li>
-</ol>
-</li>
+  <li>Data Understanding
+    <ol>
+      <li>Collect initial data</li>
+      <li>Describe the data</li>
+      <li>Explore the data</li>
+      <li>Verify the data quality</li>
+    </ol>
+  </li>
 
-<li>Prepare the Data
-<ol>
-<li>Conver the categorical variables into numeric</li>
-<li>Fill the missing values</li>
-<li>Feature engineering</li>
-<li>Data scaling</li>
-<li>Feature selection</li>
-<li>Data splitting</li>
-<li>Class balancing</li>
-</ol>
-</li>
+  <li>Data preparation
+    <ol>
+      <li>Select the data</li>
+      <li>Clean the data</li>
+      <li>Construct the data</li>
+      <li>Integrate various data sources</li>
+      <li>FOrmat the data as required</li>
+    </ol>
+  </li>
 
-<li>Perform Exploratory Analysis and Modelling
-<ol>
-<li>Time-series</li>
-<li>Classification</li>
-<li>Clustering</li>
-</ol>
-</li>
+  <li>Data transformation
+    <ol>
+      <li>Reduce the data</li>
+      <li>Project the data</li>
+    </ol>
+  </li>
 
-<li>Visualise and Present Findings
-<ol>
-<li>Exploratory analysis of Crash Analysis System (CAS) dataset</li>
-<li>Geo-spatial analysis of Crash Analysis System (CAS) dataset and State highway traffic monitoring sites dataset</li>
-<li>Time-series of traffic count datasets</li>
-<li>Classification model comparison of CAS dataset</li>
-<li>Clustering models of CAS dataset</li>
-</ol>
-</li>
+  <li>Data-mining methods selection
+    <ol>
+      <li>Match and discuss the objectives of data mining to data mining methods</li>
+      <li>Select the appropriate data-minings based on discussion</li>
+    </ol>
+  </li>
 
-<li>Insights and implications from the data</li>
+  <li>Data-mining algorithms selection
+    <ol>
+      <li>Conduct exploratory analysis and discuss</li>
+      <li>Select data-mining algorithms based on discussion</li>
+      <li>Build appropriate models and choose relevant parameters</li>
+    </ol>
+  </li>
 
+  <li>Data mining
+    <ol>
+      <li>Create and justify test designs</li>
+      <li>Conduct data mining</li>
+      <li>Search for patterns</li>
+    </ol>
+  </li>
+
+  <li>Interpretation
+    <ol>
+      <li>Study and discuss the mined patterns</li>
+      <li>Visuliise the data, results, models, and patterns</li>
+      <li>Interpret the results, models, and patterns</li>
+      <li>Assess and evaluate results, models, and patterns</li>
+      <li>Iterate prior steps as required</li>
+    </ol>
+  </li>
+
+    <li>Action
+    <ol>
+      <li>Discuss how you would apply the knowledge and deploy the implementation</li>
+      <li>Discuss how you would monitor the implementation</li>
+      <li>Discuss how you would maintain the implementation</li>
+      <li>How could you enhance the solution in the future</li>
+    </ol>
+  </li>
+  
 </ol>
