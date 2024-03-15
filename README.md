@@ -7,7 +7,7 @@
   
 **<li>This is the data science project in the course 'Data Mining and Big Data' at the University of Auckland</li>**
 **<li>The project is based on Cross-Industry Standard Process for Data Mining, known as CRISP-DM.</li>**
-**<li>There are four iterations for the whole proejct</li>**
+**<li>There are three iterations for the whole proejct</li>**
 
 </ol>
 
@@ -15,10 +15,10 @@
 
 **The Outline of the Project**
 <ol>
-  <li>Iteration 1: Proposal</li>
-  <li>Iteration 2: IBM Software Analytics Solution and Report (SPSS Modeller)</li>
-  <li>Iteration 3: Open Source Analytics Solution and Report (Python and Jupyter)</li>
-  <li>Iteration 4: Big Data Analytics Solution and Report (PySpark and Jupyter)</li>
+  <li>Project Proposal</li>
+  <li>Iteration 1: IBM Software Analytics Solution and Report (SPSS Modeller)</li>
+  <li>Iteration 2: Open Source Analytics Solution and Report (Python and Jupyter)</li>
+  <li>Iteration 3: Big Data Analytics Solution and Report (PySpark and Jupyter)</li>
   <li>Research Paper: An Overall Research Paper</li>
 </ol>
 
